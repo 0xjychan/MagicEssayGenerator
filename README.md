@@ -1,3 +1,3 @@
 # Magic Essay Generator 
-# AI writing assistant powered by GPT-3.
+AI writing assistant powered by GPT-3.
 
